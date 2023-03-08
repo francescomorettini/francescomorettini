@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @francescomorettini
 - 👀 I’m interested in Bioinformatics, Machine Learning and Data Science
 - 🌱 I’m currently learning Bioinformatics for Computational Genomics
-- 📫 francesco.morettini@mail.polimi.it
+- 📫 francesco.morettini1@gmail.com
 
 <!---
 francescomorettini/francescomorettini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
